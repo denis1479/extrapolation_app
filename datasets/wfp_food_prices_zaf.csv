@@ -1,0 +1,812 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2000-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.8,0.1289
+2000-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.86,0.1378
+2000-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.65,0.1042
+2000-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.8,0.1263
+2000-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.83,0.1309
+2000-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.69,0.1082
+2000-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.75,0.1164
+2000-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.73,0.1129
+2000-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.69,0.1062
+2000-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.69,0.1035
+2000-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.67,0.1002
+2000-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.7,0.1043
+2000-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.67,0.095
+2000-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.68,0.0963
+2000-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.8,0.1131
+2000-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.6,0.0876
+2000-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.61,0.0887
+2000-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.8,0.1156
+2000-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.54,0.078
+2000-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.53,0.077
+2000-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.76,0.1105
+2000-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.51,0.0731
+2000-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.5,0.0725
+2000-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.75,0.1084
+2000-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.54,0.075
+2000-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.54,0.0756
+2000-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.84,0.1163
+2000-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.62,0.083
+2000-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.63,0.0849
+2000-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.95,0.1277
+2000-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.67,0.0875
+2000-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.71,0.0921
+2000-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.98,0.1275
+2000-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.69,0.0892
+2000-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.74,0.0961
+2000-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.98,0.1273
+2001-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.8,0.1027
+2001-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.82,0.1049
+2001-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.04,0.1323
+2001-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.84,0.1074
+2001-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.89,0.1126
+2001-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.0,0.1276
+2001-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.82,0.1038
+2001-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.86,0.109
+2001-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.03,0.1306
+2001-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.81,0.101
+2001-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.82,0.1028
+2001-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.05,0.1315
+2001-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.76,0.0946
+2001-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.77,0.0971
+2001-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.07,0.1347
+2001-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.78,0.0981
+2001-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.8,0.1002
+2001-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.03,0.1294
+2001-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.9,0.1104
+2001-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.88,0.1073
+2001-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.02,0.1245
+2001-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.98,0.119
+2001-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.92,0.1121
+2001-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.01,0.1228
+2001-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.0,0.1152
+2001-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.98,0.1124
+2001-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.05,0.1212
+2001-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.06,0.1173
+2001-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.05,0.1161
+2001-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.13,0.1254
+2001-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.28,0.1344
+2001-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.23,0.129
+2001-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.24,0.1297
+2001-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.55,0.1381
+2001-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.48,0.1318
+2001-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.42,0.1265
+2002-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.74,0.1487
+2002-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.65,0.1414
+2002-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.46,0.1252
+2002-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.85,0.1624
+2002-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.52,0.1328
+2002-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.42,0.124
+2002-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.01,0.1691
+2002-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.47,0.1236
+2002-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.42,0.1194
+2002-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.92,0.1715
+2002-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.39,0.1247
+2002-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.38,0.1231
+2002-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.78,0.1744
+2002-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.31,0.1289
+2002-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.23,0.1208
+2002-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.75,0.175
+2002-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.35,0.1343
+2002-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.33,0.133
+2002-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.7,0.1695
+2002-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.39,0.1388
+2002-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.49,0.1489
+2002-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.74,0.1638
+2002-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.49,0.1406
+2002-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.69,0.1597
+2002-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.76,0.1675
+2002-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.54,0.1466
+2002-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.96,0.1865
+2002-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.76,0.1687
+2002-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.47,0.141
+2002-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.97,0.1891
+2002-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.8,0.1886
+2002-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.4,0.1458
+2002-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.72,0.1793
+2002-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.74,0.1944
+2002-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.35,0.15
+2002-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.45,0.161
+2003-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.53,0.1754
+2003-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.3,0.149
+2003-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.3,0.1489
+2003-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.1,0.1317
+2003-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.09,0.1306
+2003-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.26,0.1512
+2003-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.89,0.1114
+2003-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.94,0.1173
+2003-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.15,0.1426
+2003-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.79,0.1033
+2003-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.83,0.1078
+2003-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.07,0.1395
+2003-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.88,0.1097
+2003-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.9,0.1129
+2003-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.09,0.1359
+2003-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.89,0.1132
+2003-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.92,0.1174
+2003-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.04,0.1331
+2003-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.83,0.1086
+2003-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.86,0.1123
+2003-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.98,0.128
+2003-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.86,0.1175
+2003-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.88,0.1202
+2003-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.1,0.1502
+2003-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.9,0.1219
+2003-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.93,0.1255
+2003-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.07,0.145
+2003-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.88,0.1264
+2003-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.93,0.133
+2003-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.04,0.1491
+2003-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.91,0.1361
+2003-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.97,0.1454
+2003-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.08,0.1627
+2003-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.09,0.1734
+2003-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.1,0.1741
+2003-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.08,0.1708
+2004-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.3,0.1772
+2004-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.29,0.1762
+2004-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.15,0.157
+2004-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.33,0.1947
+2004-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.38,0.2022
+2004-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.09,0.1591
+2004-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.08,0.1613
+2004-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.22,0.1831
+2004-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.04,0.1564
+2004-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.11,0.1721
+2004-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.2,0.1851
+2004-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.07,0.1659
+2004-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.05,0.1569
+2004-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.08,0.161
+2004-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.11,0.1661
+2004-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.99,0.153
+2004-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.0,0.1543
+2004-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.0,0.1543
+2004-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.88,0.145
+2004-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.9,0.1488
+2004-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.93,0.1523
+2004-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.94,0.1455
+2004-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.96,0.1494
+2004-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.91,0.1412
+2004-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.92,0.14
+2004-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.95,0.1456
+2004-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.97,0.1487
+2004-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.9,0.1402
+2004-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.94,0.147
+2004-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.96,0.1498
+2004-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.97,0.1617
+2004-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.96,0.1601
+2004-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.95,0.1571
+2004-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.82,0.1438
+2004-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.88,0.1544
+2004-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.88,0.1543
+2005-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.66,0.1149
+2005-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.73,0.1265
+2005-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.92,0.1588
+2005-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.54,0.09
+2005-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.65,0.1097
+2005-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.91,0.1524
+2005-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.53,0.0872
+2005-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.6,0.0988
+2005-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.91,0.1492
+2005-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.55,0.0874
+2005-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.61,0.0977
+2005-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.87,0.1387
+2005-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.56,0.0879
+2005-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.61,0.0948
+2005-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.92,0.143
+2005-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.58,0.0864
+2005-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.61,0.0907
+2005-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.96,0.1425
+2005-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.61,0.0915
+2005-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.63,0.0953
+2005-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.95,0.144
+2005-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.65,0.1007
+2005-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.62,0.0975
+2005-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,0.96,0.1504
+2005-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.8,0.1268
+2005-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.71,0.1126
+2005-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.01,0.1597
+2005-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.85,0.1311
+2005-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.76,0.1166
+2005-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.11,0.1695
+2005-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,0.93,0.137
+2005-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.81,0.1199
+2005-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.07,0.1583
+2005-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.14,0.1778
+2005-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.88,0.1374
+2005-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.04,0.1622
+2006-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.13,0.1814
+2006-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.95,0.1526
+2006-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.02,0.1636
+2006-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.02,0.1694
+2006-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,0.96,0.1584
+2006-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.1,0.1811
+2006-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.14,0.1846
+2006-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.01,0.1638
+2006-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.09,0.1774
+2006-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.09,0.1764
+2006-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.0,0.1612
+2006-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.09,0.1769
+2006-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.2,0.1869
+2006-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.07,0.1665
+2006-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.24,0.1927
+2006-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.34,0.1953
+2006-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.2,0.1745
+2006-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.36,0.1983
+2006-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.4,0.1988
+2006-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.26,0.18
+2006-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.44,0.2045
+2006-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.29,0.1886
+2006-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.21,0.1767
+2006-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.32,0.1935
+2006-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.33,0.1805
+2006-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.25,0.1692
+2006-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.45,0.1964
+2006-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.34,0.1764
+2006-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.28,0.1678
+2006-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.62,0.2129
+2006-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.38,0.1921
+2006-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.48,0.2056
+2006-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.52,0.211
+2006-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.42,0.2036
+2006-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.6,0.2306
+2006-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.44,0.2073
+2007-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.42,0.1969
+2007-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.57,0.2187
+2007-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.75,0.2439
+2007-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.5,0.21
+2007-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.64,0.2284
+2007-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,1.84,0.2573
+2007-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.97,0.2659
+2007-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.9,0.2571
+2007-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.09,0.2824
+2007-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.67,0.2324
+2007-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.67,0.2323
+2007-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.16,0.3016
+2007-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.65,0.2398
+2007-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.68,0.2441
+2007-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.25,0.326
+2007-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.74,0.2442
+2007-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.74,0.2445
+2007-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.45,0.3453
+2007-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.68,0.2368
+2007-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.68,0.2364
+2007-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.74,0.3861
+2007-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.83,0.2471
+2007-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.83,0.2469
+2007-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.09,0.4171
+2007-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.86,0.2659
+2007-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.92,0.2749
+2007-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.36,0.4794
+2007-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.82,0.2673
+2007-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.9,0.2796
+2007-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.06,0.4495
+2007-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.87,0.2785
+2007-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.0,0.2969
+2007-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.8,0.4158
+2007-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.73,0.2559
+2007-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.87,0.2754
+2007-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.05,0.4503
+2008-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.79,0.2625
+2008-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.91,0.2795
+2008-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.17,0.4647
+2008-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.75,0.2294
+2008-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.83,0.2397
+2008-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.76,0.4909
+2008-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.87,0.2369
+2008-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.92,0.2428
+2008-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.07,0.515
+2008-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.86,0.2347
+2008-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.85,0.2342
+2008-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.96,0.5009
+2008-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.78,0.2372
+2008-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.8,0.2396
+2008-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.8,0.5051
+2008-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.01,0.2601
+2008-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.06,0.2673
+2008-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.04,0.524
+2008-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.96,0.2568
+2008-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.01,0.2629
+2008-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.97,0.5195
+2008-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.85,0.2353
+2008-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.83,0.2324
+2008-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.76,0.4773
+2008-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.86,0.2312
+2008-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.86,0.2312
+2008-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.32,0.4121
+2008-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.78,0.1669
+2008-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.78,0.1662
+2008-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.01,0.2817
+2008-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.76,0.174
+2008-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.73,0.1714
+2008-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.6,0.2567
+2008-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.67,0.1649
+2008-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.64,0.1623
+2008-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.52,0.2489
+2009-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.81,0.1829
+2009-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.73,0.1744
+2009-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.75,0.2772
+2009-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.73,0.1707
+2009-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.6,0.1577
+2009-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.74,0.2711
+2009-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.7,0.1743
+2009-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.53,0.1566
+2009-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.67,0.2727
+2009-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.63,0.1807
+2009-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.43,0.1587
+2009-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.53,0.2801
+2009-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.6,0.1845
+2009-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.46,0.168
+2009-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.63,0.3034
+2009-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.51,0.1881
+2009-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.45,0.1806
+2009-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.6,0.3238
+2009-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.34,0.1652
+2009-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.27,0.1565
+2009-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.49,0.3073
+2009-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.41,0.1811
+2009-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.32,0.1687
+2009-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.39,0.3067
+2009-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.41,0.1924
+2009-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.24,0.1698
+2009-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.14,0.2916
+2009-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.49,0.207
+2009-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.36,0.1884
+2009-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.14,0.2961
+2009-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.53,0.2018
+2009-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.44,0.1901
+2009-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.16,0.2854
+2009-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.64,0.2208
+2009-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.53,0.2063
+2009-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.11,0.2833
+2010-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.4,0.1901
+2010-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.41,0.1912
+2010-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.07,0.2806
+2010-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.15,0.149
+2010-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.23,0.159
+2010-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.1,0.2724
+2010-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.12,0.1513
+2010-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.17,0.1584
+2010-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.09,0.2823
+2010-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.1,0.1511
+2010-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.16,0.1584
+2010-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.17,0.2966
+2010-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.12,0.1498
+2010-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.18,0.1586
+2010-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.25,0.301
+2010-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.05,0.139
+2010-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.1,0.1456
+2010-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.29,0.302
+2010-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.1,0.1462
+2010-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.15,0.1524
+2010-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.42,0.3201
+2010-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.18,0.1607
+2010-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.25,0.1693
+2010-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.7,0.3655
+2010-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.28,0.1811
+2010-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.36,0.1925
+2010-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.79,0.3959
+2010-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.25,0.1837
+2010-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.36,0.1993
+2010-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.66,0.3896
+2010-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.31,0.1883
+2010-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.4,0.2
+2010-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.68,0.384
+2010-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.34,0.1955
+2010-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.4,0.2041
+2010-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.8,0.4078
+2011-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.35,0.1964
+2011-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.46,0.2116
+2011-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.96,0.4299
+2011-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.57,0.2138
+2011-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.63,0.2224
+2011-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.29,0.4485
+2011-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.56,0.2247
+2011-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.61,0.2318
+2011-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.07,0.4405
+2011-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.63,0.2397
+2011-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.65,0.2434
+2011-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.09,0.456
+2011-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.68,0.2503
+2011-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.72,0.2552
+2011-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.23,0.4802
+2011-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.75,0.2556
+2011-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.76,0.2572
+2011-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.04,0.4443
+2011-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.8,0.2617
+2011-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.78,0.2596
+2011-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.98,0.4331
+2011-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.07,0.2948
+2011-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.08,0.2962
+2011-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.13,0.4469
+2011-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.21,0.2996
+2011-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.18,0.2947
+2011-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.12,0.4222
+2011-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.25,0.282
+2011-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.2,0.2759
+2011-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.87,0.3603
+2011-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.47,0.3028
+2011-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.4,0.2935
+2011-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.75,0.3365
+2011-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.47,0.2939
+2011-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.51,0.2991
+2011-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.65,0.3155
+2012-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.74,0.3437
+2012-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.76,0.347
+2012-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.76,0.346
+2012-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.4,0.3096
+2012-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.47,0.3192
+2012-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.76,0.3557
+2012-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.48,0.3251
+2012-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.37,0.3105
+2012-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.71,0.3556
+2012-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.29,0.2974
+2012-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.16,0.2801
+2012-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.7,0.3499
+2012-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.06,0.2478
+2012-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.0,0.2406
+2012-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.8,0.3375
+2012-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.06,0.2467
+2012-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.03,0.2431
+2012-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,2.97,0.3562
+2012-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.54,0.3098
+2012-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.51,0.3067
+2012-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.43,0.4181
+2012-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.68,0.3256
+2012-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.69,0.3269
+2012-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.45,0.419
+2012-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.42,0.2895
+2012-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.45,0.2927
+2012-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.41,0.4084
+2012-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.45,0.279
+2012-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.49,0.2833
+2012-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.53,0.402
+2012-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.45,0.275
+2012-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.51,0.281
+2012-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.68,0.4126
+2012-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.31,0.2664
+2012-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.42,0.279
+2012-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.56,0.4106
+2013-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.16,0.2447
+2013-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.26,0.2569
+2013-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.52,0.3995
+2013-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.11,0.239
+2013-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.16,0.2445
+2013-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.45,0.3908
+2013-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.32,0.2525
+2013-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.27,0.2475
+2013-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.4,0.3704
+2013-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.15,0.2342
+2013-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.15,0.234
+2013-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.38,0.3671
+2013-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.17,0.2355
+2013-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.18,0.2365
+2013-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.48,0.3777
+2013-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.29,0.2267
+2013-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.27,0.2242
+2013-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.56,0.3522
+2013-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.26,0.2293
+2013-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.17,0.22
+2013-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.35,0.3391
+2013-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.3,0.2299
+2013-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.14,0.214
+2013-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.44,0.3442
+2013-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.31,0.2266
+2013-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.12,0.2084
+2013-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.35,0.329
+2013-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.36,0.2377
+2013-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.17,0.2184
+2013-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.45,0.3477
+2013-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.45,0.2416
+2013-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.39,0.2357
+2013-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.54,0.3486
+2013-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.75,0.2668
+2013-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.73,0.2647
+2013-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.58,0.3473
+2014-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.16,0.2907
+2014-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.18,0.2923
+2014-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.74,0.3441
+2014-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.17,0.289
+2014-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.17,0.2892
+2014-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.82,0.3483
+2014-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.36,0.3157
+2014-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.23,0.3036
+2014-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.99,0.3743
+2014-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.64,0.2501
+2014-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.45,0.2316
+2014-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.93,0.372
+2014-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.99,0.192
+2014-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.05,0.1977
+2014-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.95,0.381
+2014-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.83,0.1744
+2014-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.95,0.1849
+2014-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.79,0.3605
+2014-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.71,0.1594
+2014-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.79,0.1673
+2014-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.71,0.3463
+2014-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.73,0.1632
+2014-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.8,0.1695
+2014-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.7,0.3492
+2014-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.72,0.1572
+2014-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.75,0.1594
+2014-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.7,0.3373
+2014-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.88,0.17
+2014-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.9,0.1718
+2014-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.61,0.3257
+2014-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.97,0.1803
+2014-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.01,0.1835
+2014-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.65,0.3337
+2014-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.11,0.1794
+2014-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.12,0.1807
+2014-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.85,0.3278
+2015-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.01,0.1741
+2015-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.02,0.1747
+2015-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.91,0.3381
+2015-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.55,0.2199
+2015-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.32,0.1996
+2015-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.84,0.3311
+2015-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.65,0.2227
+2015-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.44,0.2052
+2015-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.87,0.3258
+2015-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.56,0.2122
+2015-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.37,0.1965
+2015-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.79,0.3146
+2015-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.74,0.2325
+2015-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.39,0.2026
+2015-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.82,0.3242
+2015-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.89,0.2328
+2015-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.5,0.2019
+2015-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.87,0.3124
+2015-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.17,0.2555
+2015-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.77,0.2229
+2015-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.05,0.3264
+2015-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.05,0.2348
+2015-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.7,0.2078
+2015-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.05,0.3118
+2015-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.12,0.2317
+2015-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.86,0.2124
+2015-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.16,0.3091
+2015-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.14,0.2409
+2015-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.87,0.2205
+2015-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.15,0.3188
+2015-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.23,0.2285
+2015-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.12,0.2212
+2015-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.41,0.3124
+2015-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.98,0.2671
+2015-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.56,0.2386
+2015-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.65,0.3115
+2016-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.95,0.2944
+2016-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.88,0.2305
+2016-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.89,0.2909
+2016-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.99,0.3177
+2016-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.72,0.2366
+2016-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.66,0.2967
+2016-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.84,0.3038
+2016-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.29,0.2066
+2016-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.62,0.2904
+2016-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.51,0.3099
+2016-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.11,0.2135
+2016-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.57,0.3138
+2016-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.86,0.3253
+2016-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.47,0.2321
+2016-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.98,0.3333
+2016-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.78,0.3138
+2016-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.66,0.2401
+2016-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.82,0.3161
+2016-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.45,0.3057
+2016-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.31,0.2275
+2016-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.51,0.3097
+2016-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.14,0.3113
+2016-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.12,0.235
+2016-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.2,0.3158
+2016-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.92,0.2755
+2016-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.14,0.2204
+2016-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.11,0.2888
+2016-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.55,0.2557
+2016-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.17,0.2285
+2016-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.13,0.2977
+2016-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.79,0.2675
+2016-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.2,0.2258
+2016-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.94,0.2781
+2016-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.0,0.2862
+2016-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.28,0.2347
+2016-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.91,0.2803
+2017-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.4,0.2508
+2017-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.18,0.2343
+2017-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.95,0.2907
+2017-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.94,0.2275
+2017-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.86,0.2218
+2017-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.98,0.3082
+2017-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.14,0.167
+2017-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.15,0.168
+2017-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.03,0.315
+2017-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.01,0.1513
+2017-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.09,0.1577
+2017-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.41,0.3325
+2017-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.84,0.1396
+2017-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.94,0.1474
+2017-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.43,0.3366
+2017-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.73,0.1342
+2017-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.86,0.1441
+2017-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.41,0.3427
+2017-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.82,0.1399
+2017-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.94,0.149
+2017-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.5,0.3448
+2017-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.82,0.1367
+2017-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.94,0.146
+2017-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.44,0.3338
+2017-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.83,0.1392
+2017-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.95,0.1481
+2017-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.16,0.3167
+2017-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.89,0.1372
+2017-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.99,0.1446
+2017-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.16,0.3015
+2017-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.99,0.1383
+2017-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.09,0.1456
+2017-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.18,0.2906
+2017-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.86,0.1416
+2017-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.95,0.1485
+2017-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.92,0.2981
+2018-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.93,0.1572
+2018-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.97,0.1606
+2018-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.68,0.2994
+2018-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.79,0.1545
+2018-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.89,0.1626
+2018-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.58,0.3087
+2018-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.9,0.16
+2018-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,1.98,0.1666
+2018-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.71,0.3116
+2018-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,1.97,0.1621
+2018-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.07,0.1703
+2018-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.85,0.317
+2018-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.11,0.168
+2018-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.2,0.1753
+2018-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.89,0.3096
+2018-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.07,0.1542
+2018-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.17,0.1616
+2018-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,3.92,0.292
+2018-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.03,0.1514
+2018-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.11,0.1568
+2018-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.07,0.3026
+2018-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.27,0.1558
+2018-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.33,0.1602
+2018-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.24,0.2914
+2018-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.38,0.1646
+2018-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.42,0.1674
+2018-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.36,0.3017
+2018-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.37,0.1653
+2018-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.4,0.1669
+2018-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.39,0.3058
+2018-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.4,0.1688
+2018-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.39,0.168
+2018-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.28,0.3015
+2018-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.79,0.1986
+2018-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.64,0.1875
+2018-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.33,0.308
+2019-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.99,0.2178
+2019-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.74,0.1993
+2019-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.44,0.3232
+2019-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.74,0.1944
+2019-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.6,0.185
+2019-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.47,0.3178
+2019-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.9,0.2013
+2019-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.68,0.186
+2019-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.55,0.316
+2019-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.76,0.1969
+2019-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.57,0.1827
+2019-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.57,0.3253
+2019-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.78,0.1955
+2019-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.62,0.1841
+2019-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.49,0.3159
+2019-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.85,0.1977
+2019-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.83,0.1961
+2019-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.52,0.3136
+2019-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.9,0.2089
+2019-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.8,0.2015
+2019-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.51,0.3247
+2019-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.87,0.1879
+2019-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.74,0.1798
+2019-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.6,0.3016
+2019-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.77,0.1822
+2019-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.65,0.1739
+2019-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.6,0.3023
+2019-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.88,0.1936
+2019-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.8,0.1878
+2019-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.49,0.3019
+2019-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.72,0.1853
+2019-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.67,0.1813
+2019-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.37,0.2975
+2019-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.68,0.1868
+2019-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.64,0.1837
+2019-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.39,0.3056
+2020-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.93,0.2035
+2020-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.8,0.1944
+2020-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.55,0.3163
+2020-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.82,0.1854
+2020-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.67,0.1751
+2020-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.74,0.3113
+2020-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.13,0.1875
+2020-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.66,0.1593
+2020-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.08,0.3046
+2020-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.29,0.1761
+2020-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.79,0.1492
+2020-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.48,0.293
+2020-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.58,0.139
+2020-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.59,0.1393
+2020-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.49,0.2959
+2020-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.47,0.1444
+2020-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.58,0.1505
+2020-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.25,0.3066
+2020-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.6,0.1565
+2020-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.68,0.1616
+2020-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.76,0.3472
+2020-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,2.93,0.1752
+2020-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,2.94,0.1755
+2020-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.71,0.3414
+2020-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.28,0.1996
+2020-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.19,0.1942
+2020-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.03,0.3064
+2020-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.6,0.2162
+2020-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.48,0.2089
+2020-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.15,0.3096
+2020-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.44,0.2182
+2020-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.38,0.2144
+2020-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.99,0.3162
+2020-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.37,0.2268
+2020-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.29,0.2208
+2020-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.77,0.3206
+2021-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.54,0.2325
+2021-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.54,0.2327
+2021-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.14,0.3375
+2021-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.28,0.2272
+2021-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.38,0.2339
+2021-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.09,0.3525
+2021-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.22,0.2168
+2021-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.32,0.2236
+2021-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.15,0.3468
+2021-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.16,0.2234
+2021-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.32,0.2342
+2021-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,4.9,0.3458
+2021-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.31,0.2348
+2021-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.45,0.2451
+2021-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.16,0.3662
+2021-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.16,0.2295
+2021-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.29,0.2389
+2021-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.08,0.3688
+2021-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.0,0.206
+2021-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.0,0.206
+2021-07-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.0,0.3434
+2021-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.23,0.222
+2021-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.39,0.233
+2021-08-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.51,0.3787
+2021-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.1,0.2151
+2021-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.26,0.2262
+2021-09-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,6.08,0.4219
+2021-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.12,0.2138
+2021-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.37,0.231
+2021-10-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.77,0.3955
+2021-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.39,0.2226
+2021-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.55,0.2331
+2021-11-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.99,0.3933
+2021-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.57,0.2235
+2021-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.86,0.2417
+2021-12-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,6.02,0.377
+2022-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.69,0.2343
+2022-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.83,0.243
+2022-01-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.91,0.3752
+2022-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,3.69,0.2442
+2022-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,3.82,0.2528
+2022-02-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,5.98,0.3958
+2022-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.0,0.2652
+2022-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,4.18,0.2768
+2022-03-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,6.88,0.456
+2022-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.2,0.2873
+2022-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,4.33,0.2966
+2022-04-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,7.06,0.483
+2022-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.57,0.2904
+2022-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,4.86,0.3088
+2022-05-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,8.02,0.5096
+2022-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (white),KG,actual,Wholesale,ZAR,4.42,0.2801
+2022-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Maize (yellow),KG,actual,Wholesale,ZAR,4.47,0.2833
+2022-06-15,Gauteng,West Rand District Municipality,Randfontein,-26.199,27.669,cereals and tubers,Wheat,KG,actual,Wholesale,ZAR,7.89,0.5

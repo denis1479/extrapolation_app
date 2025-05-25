@@ -1,0 +1,1298 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,35.2,0.4703
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,139.03,1.8574
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,135.8,1.8143
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,125.46,1.6762
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,1843.2,24.6253
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,117.42,1.5687
+2008-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,382.84,5.1148
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,35.8,0.4782
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,142.97,1.9098
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,140.7,1.8795
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,129.75,1.7332
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,1893.1,25.2885
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,119.6,1.5976
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,383.97,5.1292
+2008-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,228.44,3.0516
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,35.97,0.4793
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,146.39,1.9506
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,142.1,1.8934
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,130.72,1.7418
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,1904.48,25.3761
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,120.09,1.6001
+2008-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,385.1,5.1312
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,36.02,0.4812
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,149.24,1.9936
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,146.63,1.9587
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,132.03,1.7637
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,1916.83,25.6055
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,121.07,1.6173
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,386.48,5.1627
+2008-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,231.07,3.0867
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,36.75,0.4912
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,147.77,1.9753
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,147.91,1.9771
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,134.45,1.7972
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2000.71,26.7439
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,121.07,1.6184
+2008-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,388.8,5.1972
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,36.97,0.4928
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,148.46,1.9791
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,147.91,1.9717
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,140.49,1.8728
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2080.85,27.7389
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,121.07,1.6139
+2008-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,391.6,5.2203
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,37.96,0.5078
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,148.73,1.9894
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,150.17,2.0087
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,143.6,1.9208
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2127.36,28.4559
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,121.07,1.6194
+2008-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,392.02,5.2437
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,38.33,0.5111
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,149.24,1.9899
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,153.3,2.044
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,152.26,2.0301
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2140.63,28.5417
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,124.77,1.6636
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.15,5.2553
+2008-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.54,3.1672
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,39.03,0.5215
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,151.17,2.0199
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,156.39,2.0897
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,153.54,2.0516
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2131.83,28.4852
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,130.3,1.741
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.15,5.2666
+2008-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.54,3.174
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,39.99,0.5364
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,154.75,2.0758
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,161.6,2.1677
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,156.5,2.0993
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2139.05,28.6928
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,134.83,1.8086
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.15,5.2871
+2008-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.29,3.183
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,40.45,0.5391
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,155.73,2.0757
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,166.42,2.2181
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,163.32,2.1768
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2154.15,28.7117
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,140.64,1.8745
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.15,5.2534
+2008-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.29,3.1627
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,40.75,0.5448
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,156.72,2.0952
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,172.69,2.3087
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,168.0,2.246
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2172.04,29.038
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,144.26,1.9286
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.66,5.2762
+2008-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.52,3.1754
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,41.05,0.5492
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,156.97,2.0999
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,173.88,2.3262
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,168.86,2.259
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2191.81,29.3219
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,145.55,1.9472
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.66,5.2797
+2009-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.75,3.1806
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,41.5,0.5494
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,156.97,2.0781
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,175.34,2.3213
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,169.98,2.2503
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2200.45,29.1312
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,146.82,1.9437
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.66,5.2248
+2009-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,237.75,3.1475
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,41.74,0.552
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,159.05,2.1036
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,179.03,2.3678
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,170.8,2.259
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2200.45,29.1027
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,149.18,1.973
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.66,5.2197
+2009-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,238.06,3.1485
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,42.0,0.5571
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,159.49,2.1155
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,180.17,2.3898
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,173.53,2.3018
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2206.72,29.2707
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,150.64,1.9981
+2009-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.66,5.2349
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,42.74,0.5511
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,161.16,2.0781
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,183.05,2.3604
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,176.73,2.2789
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2211.48,28.5168
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,151.14,1.9489
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,394.66,5.0891
+2009-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,242.61,3.1284
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,43.3,0.5583
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,164.52,2.1215
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,186.83,2.4092
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,179.72,2.3175
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2216.26,28.5785
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,403.25,5.1999
+2009-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,242.61,3.1284
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,44.67,0.5779
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,167.74,2.17
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,193.4,2.5019
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,182.02,2.3547
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2218.83,28.7041
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,160.6,2.0776
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,403.25,5.2167
+2009-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,242.61,3.1386
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,45.0,0.5784
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,169.75,2.1817
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,194.14,2.4952
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,182.2,2.3417
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2224.12,28.5855
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,160.63,2.0645
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,403.25,5.1828
+2009-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,242.61,3.1181
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,45.54,0.5895
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,171.42,2.219
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,196.52,2.5439
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,183.14,2.3707
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2231.87,28.8915
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,161.5,2.0906
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,405.58,5.2502
+2009-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,247.09,3.1986
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,46.24,0.5472
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,173.58,2.0542
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,198.65,2.3509
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,185.63,2.1968
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2249.72,26.6239
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,162.01,1.9173
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,407.23,4.8193
+2009-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,248.21,2.9374
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,46.48,0.5398
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,174.13,2.0223
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,199.29,2.3145
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,183.45,2.1306
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2235.14,25.9586
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,162.52,1.8875
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,407.23,4.7295
+2009-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,248.01,2.8804
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,46.64,0.551
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,178.07,2.1036
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,202.16,2.3882
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,192.85,2.2782
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2274.21,26.866
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,165.81,1.9588
+2009-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,413.02,4.8791
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,46.87,0.5293
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,179.49,2.027
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,202.88,2.2911
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,190.72,2.1538
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2260.27,25.5254
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,168.01,1.8973
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,412.26,4.6557
+2010-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,268.81,3.0357
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,47.06,0.5246
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,181.6,2.0245
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,202.88,2.2618
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,192.77,2.1491
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2280.51,25.4237
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,180.54,2.0127
+2010-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,412.26,4.596
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,47.78,0.5327
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,182.45,2.034
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,209.76,2.3385
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,201.28,2.2439
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2310.92,25.7628
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,192.3,2.1438
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,412.26,4.596
+2010-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,274.99,3.0657
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,48.46,0.516
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,187.16,1.9928
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,214.82,2.2873
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,205.08,2.1836
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2312.27,24.6196
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,414.57,4.4141
+2010-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,275.88,2.9374
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,48.69,0.5233
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,188.41,2.0249
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,215.85,2.3198
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,207.74,2.2326
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2312.35,24.8511
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,206.31,2.2172
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,414.57,4.4554
+2010-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,276.98,2.9767
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,48.89,0.5303
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,188.41,2.0435
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,215.85,2.3411
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,210.34,2.2813
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2312.35,25.0797
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,209.57,2.273
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,414.57,4.4964
+2010-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,277.3,3.0076
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,49.24,0.5334
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,193.97,2.1011
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,219.21,2.3745
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,210.98,2.2853
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2323.08,25.1633
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,210.4,2.279
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,418.71,4.5354
+2010-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,277.54,3.0063
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,50.0,0.5474
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,194.36,2.128
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,223.43,2.4462
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,213.23,2.3346
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2323.08,25.4345
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,210.4,2.3036
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,422.89,4.63
+2010-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,277.77,3.0412
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,50.37,0.5569
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,196.04,2.1674
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,223.43,2.4702
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,219.98,2.4321
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2373.82,26.2446
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,212.29,2.347
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,439.31,4.8569
+2010-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,278.86,3.083
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,50.79,0.555
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,203.32,2.2216
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,225.3,2.4618
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,222.73,2.4337
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2375.05,25.9512
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,442.19,4.8316
+2010-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,280.18,3.0614
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,51.75,0.5623
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,208.19,2.262
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,229.34,2.4917
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,222.84,2.4211
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2381.7,25.8768
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,444.17,4.8258
+2010-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,280.61,3.0488
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,52.51,0.5705
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,221.1,2.402
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,232.09,2.5213
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,232.12,2.5217
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2458.13,26.7043
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,217.96,2.3678
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,445.93,4.8444
+2010-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,281.37,3.0567
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,52.91,0.5634
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,223.79,2.3829
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,232.46,2.4752
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,233.34,2.4846
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2534.28,26.9848
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,222.28,2.3668
+2011-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,445.93,4.7482
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,53.56,0.5762
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,232.57,2.5018
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,236.64,2.5456
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,233.34,2.5101
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2559.21,27.5302
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,227.69,2.4493
+2011-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,446.5,4.8031
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,54.25,0.5836
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,241.15,2.5941
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,240.51,2.5872
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,236.48,2.5439
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2567.45,27.6189
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,227.69,2.4493
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,446.78,4.8062
+2011-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,285.23,3.0683
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,54.99,0.591
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,248.38,2.6696
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,245.88,2.6427
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,240.15,2.5811
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2590.74,27.8454
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,227.69,2.4472
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,447.52,4.81
+2011-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,287.16,3.0864
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.0,0.5896
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,252.03,2.7019
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,248.47,2.6637
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,245.68,2.6338
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2643.52,28.3397
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,229.28,2.458
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,455.59,4.8841
+2011-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,289.75,3.1063
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.0,0.5911
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,252.29,2.7113
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,248.47,2.6703
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,248.16,2.667
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2645.68,28.4329
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,229.41,2.4654
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,468.29,5.0327
+2011-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,298.5,3.208
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.0,0.5909
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,252.29,2.7105
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,248.47,2.6694
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,250.3,2.6891
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2654.61,28.5197
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,232.79,2.501
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,489.2,5.2557
+2011-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,329.55,3.5405
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.0,0.5908
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,252.29,2.7099
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,248.47,2.6689
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,254.11,2.7294
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2656.1,28.5295
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,232.79,2.5004
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,496.59,5.3339
+2011-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,347.73,3.735
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.0,0.5864
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,252.29,2.6899
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,249.49,2.6601
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,254.42,2.7127
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2672.14,28.4907
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,235.77,2.5138
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,507.99,5.4162
+2011-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,376.81,4.0176
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.0,0.5799
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,252.29,2.6601
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,249.49,2.6306
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,254.42,2.6826
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2709.31,28.5665
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,235.97,2.488
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,519.12,5.4735
+2011-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,389.76,4.1096
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,55.25,0.582
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,254.05,2.6762
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,250.0,2.6335
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,257.11,2.7084
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2721.7,28.6706
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,238.61,2.5135
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,530.94,5.593
+2011-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,397.84,4.1909
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,57.29,0.6134
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,259.34,2.7767
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,256.93,2.7509
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,259.56,2.779
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2771.57,29.6742
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,550.58,5.8949
+2011-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,410.89,4.3993
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,58.18,0.609
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,261.36,2.7356
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,259.28,2.7138
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,262.98,2.7526
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2776.61,29.0623
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,564.91,5.9128
+2012-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,416.28,4.3571
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,58.74,0.6274
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,262.73,2.8063
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,262.67,2.8057
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,263.1,2.8103
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2787.14,29.7708
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,244.61,2.6128
+2012-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,578.86,6.1831
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,59.51,0.626
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,264.49,2.7821
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,262.67,2.7629
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,266.31,2.8012
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2801.42,29.4669
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,247.23,2.6005
+2012-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,583.07,6.1331
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6295
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,269.72,2.8297
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,268.53,2.8172
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,270.2,2.8347
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2826.29,29.6513
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,250.64,2.6295
+2012-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,587.32,6.1617
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6309
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,270.71,2.8466
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,269.95,2.8386
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,271.68,2.8568
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2864.97,30.1259
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,254.2,2.673
+2012-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,603.03,6.341
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6308
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,277.16,2.9141
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,272.26,2.8626
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,273.66,2.8773
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2874.45,30.2224
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,255.06,2.6817
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,613.41,6.4495
+2012-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,434.57,4.5691
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6292
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,277.38,2.9088
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,273.66,2.8697
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,276.18,2.8962
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2925.24,30.6757
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,258.25,2.7082
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,622.61,6.529
+2012-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,435.25,4.5643
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6376
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,277.8,2.9522
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,274.33,2.9153
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,277.19,2.9457
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2964.63,31.5051
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,260.11,2.7642
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,630.04,6.6954
+2012-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,435.68,4.63
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.629
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,280.13,2.9365
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,281.25,2.9483
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,278.13,2.9156
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,2970.5,31.1391
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,260.11,2.7267
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,630.04,6.6046
+2012-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,436.33,4.574
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6303
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,284.55,2.989
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,287.45,3.0194
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,278.42,2.9246
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3001.49,31.5283
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,260.99,2.7415
+2012-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,636.21,6.6829
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6299
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,286.4,3.0065
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,292.09,3.0662
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,279.26,2.9316
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3025.91,31.7647
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,261.36,2.7436
+2012-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,645.14,6.7724
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6271
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,296.69,3.1008
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,297.72,3.1116
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,279.89,2.9253
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3038.53,31.7571
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,263.5,2.754
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,646.89,6.7609
+2012-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,436.73,4.5645
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,60.0,0.6273
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,300.0,3.1364
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,299.81,3.1344
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,280.56,2.9332
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3042.16,31.8051
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,265.0,2.7705
+2013-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,653.47,6.8319
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,63.58,0.6643
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,301.62,3.1514
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,304.09,3.1772
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,281.11,2.9371
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3050.09,31.868
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,265.89,2.7781
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,655.19,6.8456
+2013-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,436.98,4.5657
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.679
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,303.29,3.1682
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,306.59,3.2027
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,282.07,2.9465
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3061.22,31.9776
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,658.68,6.8806
+2013-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,439.23,4.5882
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6788
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,306.71,3.2029
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,309.92,3.2364
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,284.23,2.9681
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3083.44,32.1997
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,267.3,2.7914
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,660.33,6.8957
+2013-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.1,4.6063
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6781
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,310.62,3.2407
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,314.61,3.2823
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,284.78,2.9711
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3105.25,32.397
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,665.31,6.9412
+2013-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.1,4.602
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6753
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,313.72,3.2595
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,319.04,3.3148
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,285.68,2.9682
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3126.23,32.4813
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,267.3,2.7772
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,671.05,6.9722
+2013-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.27,4.5848
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6757
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,317.21,3.2974
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,321.69,3.344
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,286.99,2.9833
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3136.24,32.6012
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,266.28,2.768
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,675.9,7.026
+2013-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.61,4.5905
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.676
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,317.48,3.3016
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,322.98,3.3588
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,287.3,2.9877
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3141.6,32.6706
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,267.47,2.7815
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,676.35,7.0336
+2013-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.61,4.5925
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6746
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,318.29,3.3035
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,324.02,3.363
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,287.59,2.9849
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3142.01,32.611
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,267.47,2.7761
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,677.4,7.0308
+2013-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.61,4.5835
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6682
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,318.97,3.2789
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,324.69,3.3377
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,288.01,2.9606
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3142.01,32.2986
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,268.61,2.7612
+2013-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,683.92,7.0304
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6687
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,321.9,3.3114
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,324.69,3.3401
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,288.93,2.9722
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3144.41,32.3466
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,688.28,7.0803
+2013-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,442.89,4.556
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6667
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,322.96,3.3128
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,324.69,3.3305
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,289.06,2.965
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3150.38,32.315
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,269.67,2.7661
+2013-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,691.38,7.0918
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6675
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,324.64,3.3337
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,324.69,3.3343
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,289.42,2.9721
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3156.4,32.4132
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,269.67,2.7693
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,685.86,7.0431
+2014-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,441.61,4.5349
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6659
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,324.64,3.3258
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,324.69,3.3263
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,289.42,2.965
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3163.74,32.4109
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,689.81,7.0668
+2014-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,442.28,4.5309
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6659
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,325.89,3.3387
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,326.2,3.3419
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,290.0,2.971
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3173.41,32.5113
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,271.26,2.779
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,690.23,7.0714
+2014-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,444.5,4.5539
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6667
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,326.81,3.3522
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,328.3,3.3675
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,290.57,2.9805
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3168.52,32.501
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,271.26,2.7824
+2014-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,693.39,7.1124
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6605
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,328.09,3.3339
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,328.3,3.336
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,291.2,2.959
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3170.27,32.2149
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,272.45,2.7685
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,693.39,7.0459
+2014-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,444.28,4.5146
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6656
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,328.37,3.3626
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,328.3,3.3619
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,291.38,2.9838
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3172.02,32.4824
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,273.42,2.7999
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,693.39,7.1005
+2014-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,444.28,4.5495
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6712
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,328.94,3.3967
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,328.3,3.3901
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,291.36,3.0087
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3172.02,32.7553
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,693.39,7.1602
+2014-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,444.28,4.5878
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6647
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,328.94,3.3637
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,329.0,3.3644
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,291.66,2.9825
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3191.4,32.6352
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,277.5,2.8377
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,696.68,7.1242
+2014-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,444.28,4.5432
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6673
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,330.74,3.3953
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,331.58,3.404
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,292.06,2.9983
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3202.17,32.8731
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,276.5,2.8385
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,700.51,7.1914
+2014-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,445.25,4.5709
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6588
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,332.77,3.3726
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,331.12,3.3558
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,293.68,2.9764
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3216.13,32.5948
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,277.51,2.8125
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,708.51,7.1806
+2014-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,445.75,4.5176
+2014-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6466
+2014-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,333.94,3.322
+2014-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,334.75,3.3301
+2014-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,293.76,2.9223
+2014-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3229.95,32.1314
+2014-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,713.77,7.1005
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6379
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,336.44,3.3017
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,334.91,3.2867
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,294.37,2.8888
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3249.97,31.8937
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,278.22,2.7303
+2014-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,719.64,7.0622
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.0,0.6319
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,337.15,3.2778
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,335.39,3.2606
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,295.67,2.8745
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3261.1,31.7043
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,279.19,2.7143
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,721.78,7.0171
+2015-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,448.23,4.3577
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.24,0.6196
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,338.75,3.2171
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,339.52,3.2244
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,297.27,2.8231
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3272.38,31.0773
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,281.5,2.6734
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,727.2,6.9061
+2015-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,452.41,4.2965
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.45,0.6111
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,340.74,3.1813
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,342.47,3.1975
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,298.71,2.7889
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3288.84,30.7064
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,732.78,6.8416
+2015-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,455.97,4.2572
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.52,0.6033
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,342.34,3.1523
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,343.29,3.161
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,299.55,2.7583
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3311.04,30.4884
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,284.09,2.6159
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,741.05,6.8237
+2015-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,461.48,4.2494
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.65,0.6023
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,344.67,3.1621
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,345.03,3.1654
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,301.54,2.7664
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3348.81,30.723
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,287.73,2.6397
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,747.49,6.8577
+2015-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,466.78,4.2824
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.82,0.5592
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,347.74,2.9545
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,347.23,2.9501
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,304.27,2.5851
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3409.23,28.9654
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,292.85,2.4881
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,757.64,6.437
+2015-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,472.89,4.0178
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.86,0.526
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,351.05,2.8039
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,351.53,2.8077
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,306.73,2.4499
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3522.73,28.1368
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,295.88,2.3633
+2015-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,770.33,6.1528
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,65.93,0.5242
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,353.6,2.8113
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,354.24,2.8164
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,309.35,2.4595
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3560.29,28.3058
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,298.45,2.3728
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,775.78,6.1678
+2015-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,485.47,3.8597
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,66.09,0.4917
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,357.0,2.6561
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,356.6,2.6531
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,314.64,2.3409
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3648.57,27.1451
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,302.85,2.2532
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,783.54,5.8295
+2015-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,493.67,3.6729
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,66.24,0.4878
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,358.23,2.6381
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,360.0,2.6512
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,319.84,2.3554
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3738.16,27.529
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,795.74,5.8601
+2015-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,498.14,3.6685
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,66.71,0.493
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,360.48,2.6641
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,364.05,2.6905
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,323.94,2.3941
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3802.36,28.1011
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,311.23,2.3001
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,800.81,5.9183
+2015-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,502.09,3.7107
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,67.16,0.5039
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,365.83,2.7448
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,369.46,2.7721
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,330.69,2.4812
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,3898.91,29.2535
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,317.04,2.3788
+2015-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,808.03,6.0627
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,67.43,0.4355
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,368.74,2.3816
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,372.54,2.4061
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,341.2,2.2037
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,4006.55,25.8771
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,820.07,5.2966
+2016-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,516.59,3.3365
+2016-02-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-02-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,150.0,0.9549
+2016-02-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,150.0,0.9549
+2016-02-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1250.0,7.9577
+2016-02-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,100.0,0.6366
+2016-02-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-02-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,250.0,1.5915
+2016-02-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,250.0,1.5915
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,68.22,0.4343
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,375.69,2.3917
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,389.86,2.4819
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,399.37,2.5425
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,4232.31,26.9437
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,446.87,2.8449
+2016-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,826.95,5.2645
+2016-03-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-03-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,200.0,1.2645
+2016-03-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,100.0,0.6323
+2016-03-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1300.0,8.2195
+2016-03-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,200.0,1.2645
+2016-03-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-03-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,350.0,2.2129
+2016-03-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,500.0,3.1614
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,68.77,0.4348
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,381.74,2.4136
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,423.7,2.6789
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,426.02,2.6936
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,4392.95,27.7754
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,468.74,2.9637
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,841.74,5.3221
+2016-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,567.22,3.5864
+2016-04-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-04-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,200.0,1.2117
+2016-04-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,300.0,1.8175
+2016-04-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1300.0,7.8759
+2016-04-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,250.0,1.5146
+2016-04-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-04-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,500.0,3.0292
+2016-04-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,800.0,4.8467
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,69.06,0.4184
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,387.78,2.3493
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,437.88,2.6529
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,439.08,2.6601
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,4772.52,28.9138
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,487.57,2.9539
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,847.37,5.1337
+2016-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,603.49,3.6562
+2016-05-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-05-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,250.0,1.5071
+2016-05-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,350.0,2.1099
+2016-05-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1300.0,7.8369
+2016-05-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-05-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,600.0,3.617
+2016-05-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,800.0,4.8227
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,69.66,0.4199
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,390.36,2.3532
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,462.97,2.7909
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,488.3,2.9436
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,5035.36,30.3549
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,611.13,3.6841
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,869.19,5.2398
+2016-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,648.34,3.9084
+2016-06-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-06-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,400.0,2.4234
+2016-06-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1350.0,8.1788
+2016-06-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,520.0,3.1504
+2016-06-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-06-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,650.0,3.938
+2016-06-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,800.0,4.8467
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,70.39,0.4265
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,391.37,2.3711
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,482.22,2.9215
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,512.24,3.1034
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,5305.72,32.1442
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,622.33,3.7703
+2016-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,931.22,5.6417
+2016-07-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-07-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,300.0,1.8175
+2016-07-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,400.0,2.4234
+2016-07-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1250.0,7.573
+2016-07-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,600.0,3.635
+2016-07-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-07-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,700.0,4.2409
+2016-07-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,800.0,4.8467
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,79.96,0.4844
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,391.6,2.3725
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,498.07,3.0175
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,554.86,3.3616
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,5562.85,33.702
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,668.87,4.0523
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1118.6,6.7769
+2016-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,910.73,5.5176
+2016-08-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-08-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,300.0,1.8175
+2016-08-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,400.0,2.4234
+2016-08-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1300.0,7.8759
+2016-08-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,600.0,3.635
+2016-08-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-08-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,750.0,4.5438
+2016-08-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,900.0,5.4526
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,90.56,0.5486
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,394.79,2.3918
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,513.82,3.1129
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,572.31,3.4673
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,5878.45,35.614
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,685.74,4.1545
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1201.37,7.2784
+2016-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1014.03,6.1434
+2016-09-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-09-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,400.0,2.4234
+2016-09-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,500.0,3.0292
+2016-09-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1300.0,7.8759
+2016-09-15,,,National Average,,,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,600.0,3.635
+2016-09-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-09-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,850.0,5.1496
+2016-09-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,800.0,4.8467
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,90.02,0.5454
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,394.79,2.3918
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,516.05,3.1264
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,568.3,3.443
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,6259.31,37.9214
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1261.08,7.6401
+2016-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1009.73,6.1174
+2016-10-15,,,National Average,,,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,0.01,0.0001
+2016-10-15,,,National Average,,,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,400.0,2.4112
+2016-10-15,,,National Average,,,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,500.0,3.014
+2016-10-15,,,National Average,,,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,1300.0,7.8363
+2016-10-15,,,National Average,,,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,0.01,0.0001
+2016-10-15,,,National Average,,,oil and fats,Oil (soybean),L,actual,Retail,AOA,850.0,5.1237
+2016-10-15,,,National Average,,,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,800.0,4.8223
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,88.64,0.5343
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,395.56,2.3844
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,499.2,3.0091
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,561.51,3.3847
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,6418.67,38.6913
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,676.36,4.077
+2016-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1279.94,7.7154
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,87.85,0.5322
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,399.46,2.4199
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,498.4,3.0193
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,553.69,3.3543
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,6449.37,39.0705
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,669.55,4.0562
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1266.43,7.6721
+2016-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,977.03,5.9189
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,87.97,0.5329
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,407.08,2.4661
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,500.98,3.035
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,562.65,3.4086
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,6720.34,40.7121
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,676.48,4.0981
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1325.73,8.0313
+2016-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,980.71,5.9412
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,88.68,0.5345
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,423.24,2.5511
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,512.03,3.0863
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,575.36,3.468
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,6792.98,40.9451
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,704.94,4.2491
+2017-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1408.27,8.4884
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,89.4,0.5416
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,437.43,2.6498
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,515.62,3.1235
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,575.64,3.487
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,6786.73,41.1118
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,714.65,4.3291
+2017-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1475.47,8.9379
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,89.73,0.5436
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,444.08,2.6901
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,519.46,3.1467
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,582.61,3.5293
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7084.71,42.9168
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,742.32,4.4967
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1491.61,9.0357
+2017-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1059.79,6.4199
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,89.92,0.542
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,447.11,2.6949
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,522.88,3.1515
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,596.8,3.5971
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7194.77,43.365
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,761.08,4.5873
+2017-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1523.93,9.1852
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,90.03,0.5453
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,451.61,2.7355
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,526.85,3.1913
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,597.69,3.6204
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7231.35,43.8025
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,766.69,4.6441
+2017-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1552.28,9.4026
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,91.08,0.5522
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,453.4,2.749
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,528.88,3.2067
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,599.99,3.6378
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7302.96,44.2791
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,768.86,4.6617
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1561.32,9.4666
+2017-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1064.33,6.4532
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,91.49,0.5514
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,460.32,2.7744
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,536.0,3.2305
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,604.24,3.6418
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7404.04,44.6248
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,780.17,4.7022
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1589.83,9.5821
+2017-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1138.1,6.8594
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,91.9,0.5567
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,473.6,2.8687
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,540.21,3.2722
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,619.68,3.7536
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7517.31,45.5346
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,806.13,4.883
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1594.12,9.6561
+2017-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1076.15,6.5186
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,92.6,0.5609
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,484.38,2.9339
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,548.59,3.3228
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,648.96,3.9307
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7721.34,46.7677
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,824.28,4.9926
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1602.91,9.7087
+2017-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1092.11,6.6148
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,92.72,0.5588
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,488.95,2.9469
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,522.27,3.1477
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,653.26,3.9372
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7916.14,47.71
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,829.46,4.9991
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1629.37,9.8201
+2017-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1106.19,6.6669
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,93.23,0.5647
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,490.09,2.9684
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,554.71,3.3598
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,653.54,3.9584
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,7917.34,47.9548
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,828.4,5.0176
+2017-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1633.86,9.8962
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,93.51,0.5664
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,496.29,3.006
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,559.94,3.3915
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,654.45,3.964
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8032.41,48.6518
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,828.72,5.0195
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1635.56,9.9065
+2017-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1106.37,6.7012
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,93.61,0.5162
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,497.89,2.7456
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,563.1,3.1052
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,661.78,3.6494
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8098.24,44.6578
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,830.71,4.581
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1637.93,9.0324
+2018-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1110.05,6.1214
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,94.49,0.4484
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,497.89,2.3627
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,565.27,2.6824
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,668.14,3.1706
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8118.86,38.5273
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,830.87,3.9428
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1637.93,7.7726
+2018-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1112.43,5.2789
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,94.97,0.4441
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,507.0,2.3709
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,573.3,2.681
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,674.61,3.1547
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8126.34,38.002
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,832.66,3.8938
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1637.93,7.6596
+2018-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1116.0,5.2189
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,95.41,0.4336
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,509.62,2.3161
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,575.15,2.6139
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,677.99,3.0812
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8142.93,37.007
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,835.46,3.7969
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1639.12,7.4493
+2018-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1126.86,5.1212
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,96.15,0.4191
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,520.99,2.2707
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,578.77,2.5225
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,682.08,2.9728
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8212.47,35.7935
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,842.69,3.6728
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1665.49,7.2589
+2018-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1136.92,4.9552
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,96.28,0.3986
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,524.11,2.1697
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,580.6,2.4035
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,686.36,2.8414
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8232.26,34.0796
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,847.41,3.5081
+2018-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1679.86,6.9542
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,96.5,0.3814
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,531.3,2.1
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,582.88,2.3039
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,690.33,2.7286
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8297.25,32.7961
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,850.92,3.3634
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1702.03,6.7275
+2018-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1145.33,4.5271
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,180.0,0.7115
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,150.0,0.5929
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,300.0,1.1858
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,2800.0,11.0674
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,100.0,0.3953
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,300.0,1.1858
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,oil and fats,Oil (soybean),L,actual,Retail,AOA,500.0,1.9763
+2018-07-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,500.0,1.9763
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,97.14,0.3618
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,537.53,2.0021
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,595.47,2.2179
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,692.07,2.5777
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8411.86,31.3314
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,853.89,3.1805
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1720.92,6.4099
+2018-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1146.16,4.2691
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,180.0,0.6704
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,200.0,0.7449
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,300.0,1.1174
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,3000.0,11.174
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,100.0,0.3725
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,300.0,1.1174
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,oil and fats,Oil (soybean),L,actual,Retail,AOA,500.0,1.8623
+2018-08-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,500.0,1.8623
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,98.8,0.3462
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,546.76,1.9159
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,601.31,2.1071
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,698.7,2.4483
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8519.21,29.8524
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1740.79,6.0999
+2018-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1153.22,4.041
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,180.0,0.6307
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,200.0,0.7008
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,300.0,1.0512
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,3000.0,10.5124
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Salt (iodised),KG,actual,Retail,AOA,100.0,0.3504
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,300.0,1.0512
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,oil and fats,Oil (soybean),L,actual,Retail,AOA,500.0,1.7521
+2018-09-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,500.0,1.7521
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,99.21,0.3263
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,557.72,1.8345
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,604.46,1.9882
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,706.51,2.3239
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8621.46,28.3582
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1769.47,5.8202
+2018-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1164.49,3.8303
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,350.0,1.1512
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,200.0,0.6579
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,300.0,0.9868
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,3400.0,11.1835
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,250.0,0.8223
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,oil and fats,Oil (soybean),L,actual,Retail,AOA,500.0,1.6446
+2018-10-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,500.0,1.6446
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,99.79,0.322
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,568.07,1.8331
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,609.01,1.9652
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,713.76,2.3032
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8752.18,28.2419
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,892.37,2.8795
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1775.15,5.7281
+2018-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1173.19,3.7857
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Cassava flour,KG,actual,Retail,AOA,100.0,0.3227
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,Maize meal (yellow),KG,actual,Retail,AOA,200.0,0.6454
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,cereals and tubers,"Rice (white, imported)",KG,actual,Retail,AOA,300.0,0.9681
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,"meat, fish and eggs","Fish (mackerel, dry)",KG,actual,Retail,AOA,2800.0,9.0352
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,miscellaneous food,Sugar (white),KG,actual,Retail,AOA,300.0,0.9681
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,pulses and nuts,"Beans (kidney, pinto)",KG,actual,Retail,AOA,500.0,1.6134
+2018-11-15,Lunda Norte,Chitato,Kaxinde,-7.383769989013672,20.82744026184082,pulses and nuts,Cowpeas,KG,actual,Retail,AOA,350.0,1.1294
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,99.95,0.3229
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,576.57,1.8625
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,613.03,1.9803
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,722.09,2.3326
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8909.74,28.7818
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,909.72,2.9387
+2018-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1800.49,5.8162
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,100.1,0.3242
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,583.39,1.8897
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,625.36,2.0257
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,724.42,2.3465
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,8946.04,28.9778
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,919.71,2.9791
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1808.11,5.8568
+2019-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1190.94,3.8577
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,100.25,0.3207
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,583.39,1.8662
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,637.51,2.0393
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,728.74,2.3311
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9008.94,28.8185
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,925.65,2.961
+2019-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1830.82,5.8566
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,100.45,0.3199
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,594.03,1.8917
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,646.57,2.059
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,739.44,2.3548
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9051.84,28.8257
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,949.58,3.0239
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1873.6,5.9665
+2019-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1219.34,3.883
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,100.83,0.3172
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,601.28,1.8918
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,649.96,2.0449
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,743.65,2.3397
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9095.83,28.6176
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,960.48,3.0219
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1873.6,5.8948
+2019-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1235.76,3.888
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,100.83,0.3103
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,601.28,1.8503
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,655.61,2.0174
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,747.85,2.3013
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9131.37,28.0991
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,979.63,3.0145
+2019-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1902.7,5.855
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,101.66,0.3031
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,601.28,1.7929
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,668.0,1.9919
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,763.03,2.2752
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9199.73,27.4322
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,993.5,2.9625
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1914.06,5.7074
+2019-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1258.96,3.754
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,102.95,0.2994
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,603.72,1.7558
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,676.61,1.9677
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,763.7,2.221
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9298.28,27.0417
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1008.12,2.9319
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1936.19,5.6309
+2019-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1294.27,3.7641
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,104.0,0.2902
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,603.72,1.6847
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,681.08,1.9005
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,784.2,2.1883
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9379.83,26.1743
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1015.65,2.8342
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1968.0,5.4917
+2019-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1318.97,3.6806
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,104.48,0.2824
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,603.72,1.6316
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,693.82,1.8751
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,801.28,2.1655
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9493.95,25.6582
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1029.51,2.7823
+2019-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,1998.7,5.4017
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,106.08,0.2589
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,609.24,1.487
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,721.44,1.7609
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,829.56,2.0247
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9577.26,23.3757
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1064.74,2.5988
+2019-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2047.57,4.9976
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,107.26,0.2345
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,616.92,1.3486
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,731.69,1.5995
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,842.46,1.8416
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9699.35,21.2026
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1075.35,2.3507
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2063.82,4.5115
+2019-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1430.3,3.1266
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,107.78,0.2214
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,642.02,1.3186
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,753.59,1.5478
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,862.23,1.7709
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,9885.87,20.3044
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1094.3,2.2476
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2086.16,4.2847
+2019-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1457.1,2.9927
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,109.62,0.2285
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,647.38,1.3496
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,769.65,1.6045
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,874.58,1.8233
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,10121.75,21.1015
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1098.65,2.2904
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2116.64,4.4127
+2020-01-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1487.09,3.1002
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,110.82,0.2243
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,652.39,1.3202
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,781.78,1.582
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,887.95,1.7969
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,10222.58,20.6868
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1118.8,2.264
+2020-02-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2155.69,4.3623
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,111.96,0.2178
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,666.09,1.296
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,801.6,1.5597
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,903.36,1.7577
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,10409.61,20.2543
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1143.05,2.2241
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2179.03,4.2398
+2020-03-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1570.89,3.0565
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,114.43,0.2044
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,679.64,1.2137
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,829.72,1.4817
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,934.61,1.6691
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,10676.86,19.0672
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1184.41,2.1152
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2234.07,3.9897
+2020-04-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1635.0,2.9199
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,115.96,0.2061
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,711.99,1.2652
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,859.55,1.5274
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,949.47,1.6872
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,10971.26,19.4961
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1196.67,2.1265
+2020-05-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2294.94,4.0782
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,117.26,0.1971
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,728.48,1.2242
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,872.28,1.4658
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,962.95,1.6182
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,11270.84,18.9404
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1214.88,2.0416
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2331.18,3.9175
+2020-06-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1672.38,2.8104
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,119.45,0.2088
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,741.2,1.2958
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,885.72,1.5485
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,977.02,1.7081
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,11561.9,20.2135
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1229.63,2.1497
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2428.84,4.2463
+2020-07-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1696.01,2.9651
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,122.38,0.2087
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,745.74,1.2716
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,896.1,1.528
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,996.3,1.6989
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,12012.61,20.4838
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1242.58,2.1188
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2515.24,4.289
+2020-08-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1721.36,2.9352
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,124.07,0.1998
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,755.68,1.217
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,896.49,1.4438
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,1029.64,1.6582
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,12505.85,20.1405
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1261.49,2.0316
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2567.68,4.1352
+2020-09-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1774.82,2.8583
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,124.59,0.1959
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,782.94,1.231
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,897.14,1.4106
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,1063.22,1.6717
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,13208.64,20.7683
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2615.5,4.1124
+2020-10-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1796.01,2.8239
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,128.32,0.1947
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,814.83,1.2363
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,905.39,1.3737
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,1102.15,1.6723
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,13888.08,21.0721
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1345.58,2.0416
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2644.14,4.0119
+2020-11-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1868.79,2.8355
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Bread,Unit,actual,Retail,AOA,132.07,0.2034
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Cassava flour,900 G,actual,Retail,AOA,820.91,1.2644
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,Maize flour,900 G,actual,Retail,AOA,921.45,1.4193
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,cereals and tubers,"Rice (regular, milled)",900 G,actual,Retail,AOA,1137.65,1.7523
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,milk and dairy,Milk (powder),50 Pounds,actual,Retail,AOA,14280.95,21.9968
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,miscellaneous food,Sugar (white),900 G,actual,Retail,AOA,1370.21,2.1105
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (palm),L,actual,Retail,AOA,2678.57,4.1258
+2020-12-15,Luanda,Luanda,Luanda,-8.838,13.234,oil and fats,Oil (soybean),L,actual,Retail,AOA,1906.7,2.9369

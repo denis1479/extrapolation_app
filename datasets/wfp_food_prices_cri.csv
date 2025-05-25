@@ -1,0 +1,332 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2007-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,344.43,344.43
+2007-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,703.88,703.885
+2007-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,996.83,996.825
+2007-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,344.21,344.21
+2007-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,703.43,703.432
+2007-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,996.19,996.186
+2007-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,347.11,347.1125
+2007-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,709.37,709.3675
+2007-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1004.59,1004.5875
+2007-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,357.21,357.2133
+2007-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,730.01,730.0067
+2007-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1033.82,1033.82
+2008-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,358.5,358.495
+2008-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,766.5,766.495
+2008-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1037.54,1037.535
+2008-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,359.41,359.4075
+2008-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,821.92,821.9225
+2008-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1125.66,1125.6575
+2008-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,359.91,359.9075
+2008-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,841.21,841.205
+2008-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1301.63,1301.6325
+2008-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,360.81,360.8075
+2008-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,793.85,793.8525
+2008-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1305.08,1305.0775
+2008-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,348.48,348.48
+2008-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,766.53,766.5333
+2008-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1200.32,1200.3233
+2008-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,342.99,342.992
+2008-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,785.56,785.562
+2008-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1151.68,1151.678
+2008-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,331.81,331.805
+2008-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,718.47,718.47
+2008-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1368.3,1368.3
+2008-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,322.13,322.1325
+2008-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,786.38,786.385
+2008-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1607.56,1607.5625
+2008-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,392.93,392.932
+2008-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,881.67,881.666
+2008-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1871.83,1871.834
+2008-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,371.79,371.785
+2008-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,978.03,978.0275
+2008-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1553.6,1553.595
+2008-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,371.42,371.42
+2008-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,985.87,985.865
+2008-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1704.84,1704.84
+2008-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,499.99,499.9933
+2008-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1047.0,1047.0033
+2008-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1657.59,1657.59
+2009-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,476.25,476.25
+2009-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1086.87,1086.865
+2009-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1837.48,1837.485
+2009-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,398.93,398.9325
+2009-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1055.17,1055.175
+2009-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1689.84,1689.84
+2009-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,467.82,467.8175
+2009-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,995.75,995.752
+2009-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1934.76,1934.76
+2009-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,481.1,481.0967
+2009-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,952.98,952.9833
+2009-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1786.58,1786.5767
+2009-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,475.51,475.51
+2009-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,925.46,925.455
+2009-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1578.91,1578.915
+2009-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,515.55,515.55
+2009-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,940.74,940.736
+2009-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1610.9,1610.896
+2009-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,492.72,492.7225
+2009-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,968.67,968.67
+2009-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1572.46,1572.4575
+2009-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,508.67,508.672
+2009-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,960.27,960.27
+2009-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1574.8,1574.796
+2009-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,509.82,509.8225
+2009-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1021.08,1021.0825
+2009-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1584.42,1584.4175
+2009-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,493.81,493.805
+2009-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1029.39,1029.3875
+2009-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1584.14,1584.14
+2009-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,626.24,626.2375
+2009-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1051.12,1051.125
+2009-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1651.83,1651.8325
+2009-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,665.38,665.375
+2009-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1050.44,1050.445
+2009-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1656.47,1656.475
+2010-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,528.39,528.39
+2010-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1081.92,1081.92
+2010-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1553.82,1553.82
+2010-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,588.08,588.075
+2010-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1115.74,1115.745
+2010-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1608.76,1608.76
+2010-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,634.16,634.158
+2010-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1142.89,1142.89
+2010-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1675.7,1675.698
+2010-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,680.18,680.1825
+2010-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1192.81,1192.81
+2010-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1697.34,1697.335
+2010-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,561.03,561.028
+2010-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1164.57,1164.568
+2010-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1683.81,1683.81
+2010-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,611.63,611.63
+2010-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1153.65,1153.6475
+2010-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1596.9,1596.905
+2010-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,645.5,645.505
+2010-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1169.6,1169.595
+2010-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1606.34,1606.335
+2010-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,695.45,695.454
+2010-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1203.67,1203.668
+2010-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1679.87,1679.874
+2010-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,680.69,680.6875
+2010-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1209.01,1209.01
+2010-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1707.31,1707.31
+2010-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,662.45,662.4475
+2010-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1211.56,1211.5575
+2010-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1627.99,1627.995
+2010-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,673.56,673.562
+2010-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1333.9,1333.898
+2010-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1684.36,1684.36
+2010-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,780.21,780.21
+2010-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1439.66,1439.665
+2010-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1284.58,1284.5833
+2011-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,723.3,723.3
+2011-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1445.56,1445.56
+2011-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1140.33,1140.325
+2011-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,770.17,770.1667
+2011-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1450.31,1450.3067
+2011-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1143.91,1143.9133
+2011-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,577.58,577.5775
+2011-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1451.86,1451.8575
+2011-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1514.17,1514.175
+2011-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,578.06,578.0567
+2011-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1453.06,1453.0633
+2011-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1528.23,1528.23
+2011-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,685.15,685.148
+2011-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1445.32,1445.322
+2011-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1585.24,1585.24
+2011-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,707.74,707.735
+2011-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1436.96,1436.965
+2011-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1495.32,1495.32
+2011-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,765.66,765.665
+2011-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1439.18,1439.18
+2011-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1478.39,1478.39
+2011-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,877.91,877.914
+2011-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1436.25,1436.254
+2011-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1389.32,1389.324
+2011-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,914.71,914.7125
+2011-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1423.79,1423.785
+2011-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1375.65,1375.6525
+2011-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,890.47,890.472
+2011-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1407.54,1407.538
+2011-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1398.78,1398.778
+2011-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,822.01,822.0125
+2011-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1422.26,1422.26
+2011-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1326.34,1326.335
+2011-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,815.5,815.5
+2011-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1439.93,1439.93
+2011-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1387.46,1387.4567
+2012-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,753.65,753.6475
+2012-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1328.69,1328.695
+2012-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1388.46,1388.4625
+2012-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,673.65,673.65
+2012-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1281.38,1281.375
+2012-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1375.2,1375.2025
+2012-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,701.49,701.49
+2012-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1431.96,1431.965
+2012-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1410.87,1410.865
+2012-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,649.16,649.1575
+2012-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1448.22,1448.2175
+2012-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1428.14,1428.1375
+2012-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,654.62,654.6175
+2012-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1446.12,1446.12
+2012-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1436.92,1436.92
+2012-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,702.36,702.3625
+2012-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1460.73,1460.7275
+2012-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1468.1,1468.1025
+2012-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,698.1,698.1
+2012-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1461.43,1461.428
+2012-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1483.15,1483.154
+2012-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,625.11,625.105
+2012-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1464.58,1464.58
+2012-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1556.69,1556.6925
+2012-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,758.36,758.355
+2012-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1467.71,1467.7075
+2012-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1488.29,1488.29
+2012-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,810.02,810.025
+2012-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1468.04,1468.04
+2012-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1448.34,1448.335
+2012-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,807.6,807.6033
+2012-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1463.82,1463.8233
+2012-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1422.36,1422.3567
+2012-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,731.56,731.56
+2012-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1467.94,1467.945
+2012-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1508.17,1508.17
+2013-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,720.67,720.67
+2013-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1458.65,1458.65
+2013-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1433.85,1433.85
+2013-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,762.41,762.415
+2013-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1456.68,1456.6775
+2013-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1456.6,1456.6025
+2013-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,728.83,728.825
+2013-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1462.48,1462.48
+2013-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1588.75,1588.75
+2013-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,724.84,724.8367
+2013-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1466.49,1466.4867
+2013-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1502.76,1502.7567
+2013-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,723.91,723.915
+2013-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1464.76,1464.76
+2013-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1431.63,1431.63
+2013-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,723.9,723.9
+2013-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1525.7,1525.6967
+2013-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1488.18,1488.1833
+2013-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,715.4,715.3967
+2013-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1464.55,1464.5533
+2013-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1486.84,1486.8367
+2013-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,762.29,762.2933
+2013-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1463.27,1463.2667
+2013-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1533.49,1533.4867
+2013-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,722.63,722.628
+2013-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1454.87,1454.866
+2013-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1512.17,1512.166
+2013-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,731.59,731.5875
+2013-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1458.67,1458.6675
+2013-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1421.35,1421.35
+2013-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,736.83,736.8333
+2013-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1306.66,1306.66
+2013-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1404.26,1404.26
+2013-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,735.03,735.03
+2013-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1308.78,1308.78
+2013-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1470.62,1470.62
+2014-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,710.54,710.54
+2014-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1240.83,1240.83
+2014-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1583.09,1583.09
+2014-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,698.79,698.795
+2014-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1135.12,1135.115
+2014-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1590.28,1590.275
+2014-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,661.19,661.188
+2014-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1086.16,1086.158
+2014-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1548.28,1548.276
+2014-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,654.37,654.3733
+2014-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1088.88,1088.8833
+2014-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1606.17,1606.17
+2014-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,636.06,636.0575
+2014-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1079.16,1079.165
+2014-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1668.24,1668.245
+2014-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,624.46,624.46
+2014-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1088.63,1088.628
+2014-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1789.14,1789.136
+2014-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,651.01,651.0067
+2014-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1116.15,1116.1467
+2014-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1817.94,1817.9367
+2014-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,706.54,706.5425
+2014-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1109.45,1109.4525
+2014-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1830.18,1830.1775
+2014-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,690.53,690.5267
+2014-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1108.84,1108.84
+2014-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1927.02,1927.02
+2014-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,695.21,695.2133
+2014-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1119.34,1119.34
+2014-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,2047.32,2047.32
+2015-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,683.57,683.565
+2015-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1115.37,1115.365
+2015-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,2062.12,2062.12
+2015-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,650.66,650.6575
+2015-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1113.65,1113.6475
+2015-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,2029.39,2029.39
+2015-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,670.39,670.3925
+2015-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1121.2,1121.2
+2015-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1951.96,1951.965
+2015-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,704.08,704.0775
+2015-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1124.06,1124.0625
+2015-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1946.11,1946.105
+2015-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,700.99,700.9925
+2015-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1123.01,1123.0125
+2015-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1930.08,1930.08
+2015-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,696.05,696.046
+2015-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1084.73,1084.726
+2015-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1885.22,1885.22
+2015-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,697.41,697.41
+2015-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1079.28,1079.28
+2015-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1882.77,1882.77
+2015-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,755.77,755.774
+2015-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1079.63,1079.632
+2015-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1695.68,1695.676
+2015-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,760.96,760.955
+2015-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1078.72,1078.7175
+2015-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1766.73,1766.73
+2015-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,730.23,730.23
+2015-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1079.56,1079.56
+2015-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1757.2,1757.1967
+2015-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,742.57,742.565
+2015-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1081.99,1081.995
+2015-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1572.22,1572.2225
+2015-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,743.86,743.86
+2015-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1083.58,1083.575
+2015-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1034.31,1034.31
+2016-01-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,693.46,693.46
+2016-01-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1078.16,1078.16
+2016-01-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1687.19,1687.19
+2016-02-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,720.62,720.624
+2016-02-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1074.69,1074.694
+2016-02-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1650.44,1650.444
+2016-03-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,750.32,750.315
+2016-03-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1077.34,1077.335
+2016-03-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1628.28,1628.28
+2016-04-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,669.6,669.595
+2016-04-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1076.48,1076.485
+2016-04-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1655.73,1655.73
+2016-05-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,705.62,705.6233
+2016-05-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1072.86,1072.8567
+2016-05-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1390.97,1390.9733
+2016-06-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,747.02,747.02
+2016-06-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1060.78,1060.775
+2016-06-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,999.92,999.92
+2016-07-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,647.56,647.56
+2016-07-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1051.22,1051.22
+2016-07-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1538.62,1538.62
+2016-08-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,699.52,699.5225
+2016-08-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1047.46,1047.4625
+2016-08-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1430.69,1430.6875
+2016-09-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,713.75,713.7525
+2016-09-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1044.94,1044.945
+2016-09-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1530.6,1530.5975
+2016-10-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,708.51,708.512
+2016-10-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1042.71,1042.706
+2016-10-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1564.17,1564.17
+2016-11-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,765.79,765.7933
+2016-11-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1040.45,1040.4467
+2016-11-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1570.45,1570.4467
+2016-12-15,,,National Average,,,cereals and tubers,Maize (white),MT,actual,Wholesale,USD,769.81,769.81
+2016-12-15,,,National Average,,,cereals and tubers,Rice (milled 80-20),MT,actual,Wholesale,USD,1046.34,1046.34
+2016-12-15,,,National Average,,,pulses and nuts,Beans (black),MT,actual,Wholesale,USD,1579.36,1579.36

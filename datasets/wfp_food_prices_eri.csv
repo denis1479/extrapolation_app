@@ -1,0 +1,102 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2007-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1200.0,78.0488
+2007-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1000.0,65.0407
+2007-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1700.0,110.5691
+2007-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,1800.0,117.0732
+2007-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2800.0,182.1138
+2007-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1300.0,84.5528
+2007-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,900.0,58.5366
+2007-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1600.0,104.065
+2007-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,1800.0,117.0732
+2007-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2600.0,169.1057
+2007-06-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1300.0,84.5528
+2007-06-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,900.0,58.5366
+2007-06-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1650.0,107.3171
+2007-06-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,1900.0,123.5772
+2007-06-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2500.0,162.6016
+2007-07-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1100.0,71.5447
+2007-07-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1000.0,65.0407
+2007-07-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1300.0,84.5528
+2007-07-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,1800.0,117.0732
+2007-07-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2700.0,175.6098
+2007-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1200.0,78.0488
+2007-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1150.0,74.7967
+2007-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1350.0,87.8049
+2007-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,2050.0,133.3333
+2007-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2800.0,182.1138
+2007-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1300.0,84.5528
+2007-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1200.0,78.0488
+2007-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1400.0,91.0569
+2007-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,1950.0,126.8293
+2007-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2900.0,188.6179
+2007-10-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1250.0,81.3008
+2007-10-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1200.0,78.0488
+2007-10-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1550.0,100.813
+2007-10-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,2000.0,130.0813
+2007-10-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2600.0,169.1057
+2007-11-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1300.0,84.5528
+2007-11-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1150.0,74.7967
+2007-11-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1600.0,104.065
+2007-11-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,2100.0,136.5854
+2007-11-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2700.0,175.6098
+2007-12-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1350.0,87.8049
+2007-12-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1200.0,78.0488
+2007-12-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1700.0,110.5691
+2007-12-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,2500.0,162.6016
+2007-12-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2800.0,182.1138
+2008-01-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1600.0,104.065
+2008-01-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,900.0,58.5366
+2008-01-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,1650.0,107.3171
+2008-01-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,2500.0,162.6016
+2008-01-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2500.0,162.6016
+2008-02-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1600.0,104.065
+2008-02-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1300.0,84.5528
+2008-02-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,2200.0,143.0894
+2008-02-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-02-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2500.0,162.6016
+2008-03-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,1700.0,110.5691
+2008-03-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1300.0,84.5528
+2008-03-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,2400.0,156.0976
+2008-03-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3200.0,208.1301
+2008-03-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2600.0,169.1057
+2008-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,2150.0,139.8374
+2008-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2000.0,130.0813
+2008-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,2650.0,172.3577
+2008-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3400.0,221.1382
+2008-04-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2600.0,169.1057
+2008-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,2200.0,143.0894
+2008-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2000.0,130.0813
+2008-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,2800.0,182.1138
+2008-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3700.0,240.6504
+2008-05-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2600.0,169.1057
+2008-06-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,2800.0,182.1138
+2008-06-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1900.0,123.5772
+2008-06-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3500.0,227.6423
+2008-07-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-07-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,1900.0,123.5772
+2008-07-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3500.0,227.6423
+2008-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,3200.0,208.1301
+2008-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,3200.0,208.1301
+2008-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3600.0,234.1463
+2008-08-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-08-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2200.0,143.0894
+2008-08-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3600.0,234.1463
+2008-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Barley,100 KG,actual,Retail,ERN,5000.0,325.2033
+2008-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2000.0,130.0813
+2008-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3400.0,221.1382
+2008-09-15,Maekel,Southern Merab,Asmara,15.332,38.918,pulses and nuts,Chickpeas,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-09-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2500.0,162.6016
+2008-09-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3500.0,227.6423
+2008-10-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2600.0,169.1057
+2008-10-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3200.0,208.1301
+2008-11-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,2700.0,175.6098
+2008-11-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3600.0,234.1463
+2008-12-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,3000.0,195.122
+2008-12-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3700.0,240.6504
+2009-01-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,3000.0,195.122
+2009-01-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3700.0,240.6504
+2009-02-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Sorghum,100 KG,actual,Retail,ERN,3000.0,195.122
+2009-02-15,Semenawi Keih Bahri,Massawa,Massawa,15.62,39.436,cereals and tubers,Wheat flour,100 KG,actual,Retail,ERN,3700.0,240.6504

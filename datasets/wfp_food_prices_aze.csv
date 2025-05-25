@@ -1,0 +1,127 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2007-01-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.24,0.2755
+2007-01-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.29,0.3329
+2007-01-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.4,0.4592
+2007-01-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.56,0.6429
+2007-02-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.3,0.345
+2007-02-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.31,0.3565
+2007-02-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.41,0.4714
+2007-02-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.67,0.7704
+2007-03-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.29,0.3341
+2007-03-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.32,0.3687
+2007-03-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.41,0.4723
+2007-03-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.74,0.8525
+2007-04-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.44,0.5081
+2007-04-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.32,0.3695
+2007-04-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.39,0.4504
+2007-04-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.73,0.843
+2007-05-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.47,0.5455
+2007-05-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.33,0.383
+2007-05-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.38,0.441
+2007-05-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.72,0.8356
+2007-06-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.35,0.4084
+2007-06-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.33,0.385
+2007-06-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.37,0.4317
+2007-06-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.72,0.84
+2007-07-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.35,0.4094
+2007-07-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.33,0.386
+2007-07-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.46,0.5381
+2007-07-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.73,0.8539
+2007-08-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.35,0.4102
+2007-08-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.33,0.3867
+2007-08-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.46,0.5391
+2007-08-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.73,0.8555
+2007-09-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.36,0.4226
+2007-09-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.34,0.3991
+2007-09-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.47,0.5517
+2007-09-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.73,0.8569
+2007-10-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.38,0.4469
+2007-10-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.34,0.3999
+2007-10-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.47,0.5528
+2007-10-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.73,0.8586
+2007-11-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.38,0.448
+2007-11-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4127
+2007-11-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.43,0.507
+2007-11-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.73,0.8607
+2007-12-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.39,0.4609
+2007-12-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.36,0.4254
+2007-12-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.43,0.5081
+2007-12-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.74,0.8745
+2008-01-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.48,0.5679
+2008-01-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4141
+2008-01-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.44,0.5206
+2008-01-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.76,0.8992
+2008-02-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.5,0.5923
+2008-02-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4146
+2008-02-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.45,0.5331
+2008-02-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.9121
+2008-03-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.5,0.5968
+2008-03-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4178
+2008-03-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.47,0.561
+2008-03-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.9191
+2008-04-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.54,0.6502
+2008-04-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4214
+2008-04-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.45,0.5418
+2008-04-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.9271
+2008-05-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.61,0.7375
+2008-05-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4232
+2008-05-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.44,0.532
+2008-05-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.931
+2008-06-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.44,0.5378
+2008-06-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.35,0.4278
+2008-06-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.44,0.5378
+2008-06-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.9411
+2008-07-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.44,0.543
+2008-07-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.4,0.4936
+2008-07-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.5,0.617
+2008-07-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.9502
+2008-08-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.49,0.6041
+2008-08-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.44,0.5425
+2008-08-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.44,0.5425
+2008-08-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.77,0.9493
+2008-09-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.51,0.6295
+2008-09-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.43,0.5307
+2008-09-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.45,0.5554
+2008-09-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.78,0.9627
+2008-10-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.53,0.6558
+2008-10-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.44,0.5444
+2008-10-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.47,0.5815
+2008-10-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.78,0.9651
+2008-11-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.53,0.6554
+2008-11-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.5,0.6183
+2008-11-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.51,0.6306
+2008-11-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.78,0.9645
+2008-12-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.53,0.6587
+2008-12-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.51,0.6339
+2008-12-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.56,0.696
+2008-12-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.78,0.9695
+2009-01-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.47,0.5848
+2009-01-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.54,0.6718
+2009-01-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.71,0.8834
+2009-01-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,1.0,1.2442
+2009-02-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.43,0.5336
+2009-02-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.52,0.6452
+2009-02-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.71,0.881
+2009-02-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,1.0,1.2409
+2009-03-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.42,0.5224
+2009-03-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.51,0.6343
+2009-03-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.72,0.8955
+2009-03-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,1.0,1.2437
+2009-04-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.42,0.523
+2009-04-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.49,0.6101
+2009-04-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.68,0.8467
+2009-04-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.99,1.2327
+2009-05-15,,,National Average,,,cereals and tubers,Potatoes,KG,actual,Retail,AZN,0.59,0.7343
+2009-05-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.5,0.6223
+2009-05-15,,,National Average,,,milk and dairy,Milk (non-pasteurized),L,actual,Retail,AZN,0.68,0.8463
+2009-05-15,,,National Average,,,miscellaneous food,Sugar,KG,actual,Retail,AZN,0.99,1.2321
+2009-06-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.52,0.6469
+2009-07-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.53,0.659
+2009-08-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.53,0.6591
+2009-09-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.54,0.6719
+2009-10-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.56,0.6971
+2009-11-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.55,0.6851
+2009-12-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.55,0.6852
+2010-01-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.57,0.7096
+2010-02-15,,,National Average,,,cereals and tubers,Wheat flour,KG,actual,Retail,AZN,0.59,0.7343
