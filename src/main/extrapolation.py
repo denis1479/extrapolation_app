@@ -229,7 +229,7 @@ class Extrapolation:
 
     @staticmethod
     def gausian(x):
-        if not isinstance(x, np.ndarray):
+        if not isinstance(x, list):
             return x
         for i in range(0, len(x)-1):
             if x[i][i] == 0:
@@ -251,7 +251,8 @@ class Extrapolation:
             diag = x[i][i]
             for l in range(len(x[i])):
                 x[i][l] /= diag
-        return x[:,-1]
+        last_column = [row[-1] for row in x]
+        return last_column
 
     @staticmethod
     def validate_extrapolation(season, moving_average, method, path, prd_name):
@@ -281,7 +282,8 @@ class Extrapolation:
 
         # Побудова моделі
         x = train_to_extr['datecoef'].to_numpy()
-        y = train_to_extr[col_name].to_numpy().reshape(-1, 1)
+        y = train_to_extr[col_name].to_numpy()
+        y = [[value] for value in y]
 
         X = []
         if method == "Polinomial":
@@ -290,10 +292,42 @@ class Extrapolation:
         else:
             for i in x:
                 X.append([i, 1])
-        X = np.array(X)
-        XXT = X.T @ X
-        XTy = X.T @ y
-        alignment = np.hstack((XXT, XTy))
+
+        X = []
+        if method == "Polinomial":
+            for i in x:
+                X.append([i**2,i, 1])
+        else:
+            for i in x:
+                X.append([i, 1])
+        X_T = []
+        for i in range(len(X[0])):
+            row = []
+            for j in range(len(X)):
+                row.append(X[j][i])
+            X_T.append(row)
+
+        XXT = []
+        for i in range(len(X_T)):
+            row = []
+            for j in range(len(X[0])):
+                s = 0
+                for k in range(len(X)):
+                    s += X_T[i][k] * X[k][j]
+                row.append(s)
+            XXT.append(row)
+
+        XTy = []
+        for i in range(len(X_T)):
+            s = 0
+            for j in range(len(y)):
+                s += X_T[i][j] * y[j][0]
+            XTy.append(s)
+        alignment = []
+
+        for i in range(len(XXT)):
+            row = XXT[i] + [XTy[i]]
+            alignment.append(row)
         coefs = Extrapolation.gausian(alignment)
 
         # Прогноз на контрольні дати
@@ -350,7 +384,7 @@ class Extrapolation:
         to_extr['datecoef'] = ((to_extr['date'].dt.year-start_year)*12)+(to_extr['date'].dt.month-start_month)
         x = to_extr['datecoef'].to_numpy()
         y = to_extr[col_name].to_numpy()
-        y = y.reshape((y.shape[0]), 1)
+        y = [[value] for value in y]
 
         X = []
         if method == "Polinomial":
@@ -359,10 +393,34 @@ class Extrapolation:
         else:
             for i in x:
                 X.append([i, 1])
-        X = np.array(X)
-        XXT = X.T@X
-        XTy = X.T@y
-        alignment = np.hstack((XXT, XTy))
+        X_T = []
+        for i in range(len(X[0])):
+            row = []
+            for j in range(len(X)):
+                row.append(X[j][i])
+            X_T.append(row)
+
+        XXT = []
+        for i in range(len(X_T)):
+            row = []
+            for j in range(len(X[0])):
+                s = 0
+                for k in range(len(X)):
+                    s += X_T[i][k] * X[k][j]
+                row.append(s)
+            XXT.append(row)
+
+        XTy = []
+        for i in range(len(X_T)):
+            s = 0
+            for j in range(len(y)):
+                s += X_T[i][j] * y[j][0]
+            XTy.append(s)
+        alignment = []
+
+        for i in range(len(XXT)):
+            row = XXT[i] + [XTy[i]]
+            alignment.append(row)
         coefs = Extrapolation.gausian(alignment)
         if method == "Polinomial":
             extr, inflation_over_all_period = Extrapolation.predict_with_date(col_name, season, last_row, to_extr['date'].max(), end, start_year, start_month, coefs[0], coefs[1], coefs[2])
