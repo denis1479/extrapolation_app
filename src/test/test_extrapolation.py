@@ -8,8 +8,8 @@ def test_gausian_basic_solution():
     Перевірка базового випадку для функції gausian.
     Розв'язання системи лінійних рівнянь з відомим розв'язком.
     """
-    matrix = np.array([[1, 1, 1, 6], [2, 1, 3, 13], [-1, 4, 1, 3]])
-    expected_result = np.array([3.0, 1.0, 2.0])
+    matrix = [[1, 1, 1, 6], [2, 1, 3, 13], [-1, 4, 1, 3]]
+    expected_result = [3.0, 1.0, 2.0]
     result = Extrapolation.gausian(matrix)
     assert np.allclose(result, expected_result), "Basic Gaussian elimination failed"
 
@@ -28,7 +28,7 @@ def test_gausian_inconsistent_system():
     Перевірка на неконсистентну систему (без розв'язку).
     Очікується виняток або специфічне повідомлення про неможливість розв'язання.
     """
-    matrix = np.array([[1, 1, 1, 6], [1, 1, 1, 7], [1, 1, 1, 8]])
+    matrix = [[1, 1, 1, 6], [1, 1, 1, 7], [1, 1, 1, 8]]
     try:
         Extrapolation.gausian(matrix)
         assert False, "Expected exception for inconsistent system"
@@ -40,7 +40,7 @@ def test_gausian_singular_matrix():
     """
     Перевірка на вироджену матрицю (нескінченно багато розв'язків або немає).
     """
-    matrix = np.array([[1, 2, 3, 4], [2, 4, 6, 8], [3, 6, 9, 12]])  # Лінійно залежні рядки
+    matrix = [[1, 2, 3, 4], [2, 4, 6, 8], [3, 6, 9, 12]]  # Лінійно залежні рядки
     try:
         Extrapolation.gausian(matrix)
         assert False, "Expected exception for singular matrix"
